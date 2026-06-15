@@ -38,7 +38,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=apple,microsoft,google,aws,azure,docker,kubernetes,linux,github,gitlab"/>
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,linux"/>
   <br><br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vue,svelte,typescript,javascript"/>
   <br><br>
@@ -51,12 +51,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://openai.com"><img src="https://cdn.simpleicons.org/openai" width="60"></a>
   <a href="https://www.nvidia.com"><img src="https://cdn.simpleicons.org/nvidia" width="60"></a>
-  <a href="https://www.anthropic.com"><img src="https://cdn.simpleicons.org/anthropic" width="60"></a>
-  <a href="https://huggingface.co"><img src="https://cdn.simpleicons.org/huggingface" width="60"></a>
-  <a href="https://www.tensorflow.org"><img src="https://cdn.simpleicons.org/tensorflow" width="60"></a>
-  <a href="https://pytorch.org"><img src="https://cdn.simpleicons.org/pytorch" width="60"></a>
 </p>
 
 <h2 align="center">
