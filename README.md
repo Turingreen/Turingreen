@@ -190,7 +190,6 @@
 <p align="center">
   <img width="64" src="https://flagcdn.com/w320/cn.png">
   <img width="64" src="https://flagcdn.com/w320/us.png">
-  <img width="64" src="https://flagcdn.com/w320/jp.png">
   <img width="64" src="https://flagcdn.com/w320/ru.png">
   <img width="64" src="https://flagcdn.com/w320/de.png">
 </p>
