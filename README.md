@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <!-- 请替换为您的真实头像URL -->
   <img src="https://via.placeholder.com/220?text=Your+Avatar" width="220" style="border-radius:50%">
 </p>
 
@@ -12,7 +11,6 @@
 </h1>
 
 <h3 align="center">
-  未来太空机器人工程师
   <br>
   Future Space Robotics Engineer
 </h3>
@@ -44,7 +42,6 @@
 <h2 align="center">
   🚀 Space & Aerospace Ecosystem
   <br>
-  航天与宇航生态
 </h2>
 
 <p align="center">
@@ -59,7 +56,6 @@
 <h2 align="center">
   🌎 Global Technology Giants
   <br>
-  全球科技生态
 </h2>
 
 <p align="center">
@@ -73,7 +69,6 @@
 <h2 align="center">
   🤖 Artificial Intelligence Ecosystem
   <br>
-  人工智能生态
 </h2>
 
 <p align="center">
@@ -88,7 +83,6 @@
 <h2 align="center">
   🤖 Robotics Ecosystem
   <br>
-  机器人生态
 </h2>
 
 <p align="center">
@@ -108,10 +102,7 @@
 <h3 align="center">
   AI · Robotics · Space Engineering
   <br>
-  人工智能 · 机器人 · 航天工程
 </h3>
-
----
 
 ### 🌎 Technology Alliance
 
@@ -136,7 +127,6 @@
 ### ⚙️ Embedded Systems
 - STM32 • ESP32 • Raspberry Pi • Jetson Nano
 
----
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_NAME&show_icons=true"/>
@@ -147,7 +137,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_NAME"/>
 </p>
 
----
 
 # 📚 Future Projects
 - [ ] ROS2 Humanoid Robot
@@ -156,31 +145,26 @@
 - [ ] AI Vision System
 - [ ] Mars Exploration Robot
 
----
 
 # 📝 Notes
 
 在这里填写自己的内容
 
----
 
 # 📖 Blog
 
 在这里填写自己的文章链接
 
----
 
 # 🎯 Goals
 
 在这里填写您的年度或长期目标
 
----
 
-# 🌍 Global Collaboration · 全球协作
+# 🌍 Global Collaboration
 
 <p align="center">
   Code Without Borders · Coding Beyond Nations<br>
-  代码无国界 · 技术连接世界
 </p>
 
 <p align="center">
