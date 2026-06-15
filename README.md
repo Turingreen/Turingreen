@@ -67,17 +67,139 @@ Future Space Robotics Engineer
 🚀 Space Industry
 </h2>
 
-| Company | Company |
-|----------|----------|
-| SpaceX | NASA |
-| Blue Origin | Rocket Lab |
-| ESA | CNSA |
-| JAXA | ISRO |
-| Boeing Space |
-| Lockheed Martin |
-| Northrop Grumman |
-| Sierra Space |
-## 💻 Tech Stack 技术栈
+<h2 align="center">
+🚀 Space & Aerospace Ecosystem
+<br>
+航天与宇航生态
+</h2>
+
+<p align="center">
+
+<a href="https://www.spacex.com">
+<img src="https://cdn.simpleicons.org/spacex" width="60">
+</a>
+
+<a href="https://www.nasa.gov">
+<img src="https://cdn.simpleicons.org/nasa" width="60">
+</a>
+
+<a href="https://www.blueorigin.com">
+<img src="https://cdn.simpleicons.org/blueorigin" width="60">
+</a>
+
+<a href="https://www.esa.int">
+<img src="https://cdn.simpleicons.org/esa" width="60">
+</a>
+
+<a href="https://global.jaxa.jp">
+<img src="https://cdn.simpleicons.org/jaxa" width="60">
+</a>
+
+<a href="https://www.isro.gov.in">
+<img src="https://cdn.simpleicons.org/isro" width="60">
+</a>
+
+</p>
+
+<h2 align="center">
+🌎 Global Technology Giants
+<br>
+全球科技生态
+</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=apple,microsoft,google,aws,azure,docker,kubernetes,linux,github,gitlab"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vue,svelte,typescript,javascript"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,go,rust"/>
+
+</p>
+
+<h2 align="center">
+🤖 Artificial Intelligence Ecosystem
+<br>
+人工智能生态
+</h2>
+
+<p align="center">
+
+<a href="https://openai.com">
+<img src="https://cdn.simpleicons.org/openai" width="60">
+</a>
+
+<a href="https://www.nvidia.com">
+<img src="https://cdn.simpleicons.org/nvidia" width="60">
+</a>
+
+<a href="https://www.anthropic.com">
+<img src="https://cdn.simpleicons.org/anthropic" width="60">
+</a>
+
+<a href="https://huggingface.co">
+<img src="https://cdn.simpleicons.org/huggingface" width="60">
+</a>
+
+<a href="https://www.tensorflow.org">
+<img src="https://cdn.simpleicons.org/tensorflow" width="60">
+</a>
+
+<a href="https://pytorch.org">
+<img src="https://cdn.simpleicons.org/pytorch" width="60">
+</a>
+
+</p>
+
+<h2 align="center">
+🤖 Robotics Ecosystem
+<br>
+机器人生态
+</h2>
+
+<p align="center">
+
+<img src="https://cdn.simpleicons.org/ros" width="60">
+<img src="https://cdn.simpleicons.org/opencv" width="60">
+<img src="https://cdn.simpleicons.org/arduino" width="60">
+<img src="https://cdn.simpleicons.org/raspberrypi" width="60">
+<img src="https://cdn.simpleicons.org/nvidia" width="60">
+<img src="https://cdn.simpleicons.org/ubuntu" width="60">
+<img src="https://cdn.simpleicons.org/linux" width="60">
+
+</p>
+
+<h1 align="center">
+🚀 Turing Code
+</h1>
+
+<h3 align="center">
+AI · Robotics · Space Engineering
+<br>
+人工智能 · 机器人 · 航天工程
+</h3>
+
+---
+
+### 🌎 Technology Alliance
+
+<p align="center">
+
+Microsoft • Google • Apple • NVIDIA • OpenAI • SpaceX
+
+Tesla • Amazon • Meta • Intel • AMD • Cisco
+
+NASA • ESA • JAXA • CNSA • ISRO
+
+ROS • Gazebo • OpenCV • PyTorch • TensorFlow
+
+</p>
+
+---
 
 ### Programming Languages 编程语言
 
@@ -151,69 +273,19 @@ Jetson Nano
 # 🎯 Goals
 # 目标
 
-在这里填写未来规划
-<p align="center">
-
-<img width="350" src="https://flagcdn.com/w640/cn.png"/>
-
-<img width="350" src="https://flagcdn.com/w640/us.png"/>
-
-</p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=200&color=gradient"/>
 </p>
-
-<p align="center">
 <img width="350" src="https://flagcdn.com/w640/us.png">
 <img width="350" src="https://flagcdn.com/w640/ru.png">
 <img width="350" src="https://flagcdn.com/w640/cn.png">
+<p align="center">
+
 <img width="350" src="https://flagcdn.com/w640/de.png">
-<img src="https://flagcdn.com/32x24/jp.png">
-<img src="https://flagcdn.com/32x24/kr.png">
-
-
-<img src="https://flagcdn.com/32x24/fr.png">
-<img src="https://flagcdn.com/32x24/gb.png">
-<img src="https://flagcdn.com/32x24/it.png">
-<img src="https://flagcdn.com/32x24/es.png">
-<img src="https://flagcdn.com/32x24/ca.png">
-<img src="https://flagcdn.com/32x24/au.png">
-<img src="https://flagcdn.com/32x24/nz.png">
-<img src="https://flagcdn.com/32x24/in.png">
-<img src="https://flagcdn.com/32x24/sg.png">
-<img src="https://flagcdn.com/32x24/my.png">
-<img src="https://flagcdn.com/32x24/th.png">
-<img src="https://flagcdn.com/32x24/vn.png">
-<img src="https://flagcdn.com/32x24/id.png">
-<img src="https://flagcdn.com/32x24/ph.png">
-
-<br>
-
-<img src="https://flagcdn.com/32x24/br.png">
-<img src="https://flagcdn.com/32x24/ar.png">
-<img src="https://flagcdn.com/32x24/mx.png">
-<img src="https://flagcdn.com/32x24/cl.png">
-<img src="https://flagcdn.com/32x24/za.png">
-<img src="https://flagcdn.com/32x24/eg.png">
-<img src="https://flagcdn.com/32x24/sa.png">
-<img src="https://flagcdn.com/32x24/ae.png">
-<img src="https://flagcdn.com/32x24/tr.png">
-<img src="https://flagcdn.com/32x24/gr.png">
-<img src="https://flagcdn.com/32x24/pl.png">
-<img src="https://flagcdn.com/32x24/nl.png">
-<img src="https://flagcdn.com/32x24/be.png">
-<img src="https://flagcdn.com/32x24/ch.png">
-<img src="https://flagcdn.com/32x24/se.png">
-<img src="https://flagcdn.com/32x24/no.png">
-<img src="https://flagcdn.com/32x24/fi.png">
-<img src="https://flagcdn.com/32x24/dk.png">
-<img src="https://flagcdn.com/32x24/ie.png">
-<img src="https://flagcdn.com/32x24/pt.png">
-
 </p>
 
 # 🌍 Global Collaboration · 全球协作
-
+<p align="center">
 Code Without Borders · Coding Beyond Nations
 
 代码无国界 · 技术连接世界
@@ -221,5 +293,12 @@ Code Without Borders · Coding Beyond Nations
 <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Global%20Technology%20Community&fontSize=45"/>
 </p>
 <p align="center">
-<!-- 50~100个国旗 -->
+<p align="center">
+<img width="64" src="https://flagcdn.com/w320/cn.png">
+<img width="64" src="https://flagcdn.com/w320/us.png">
+<img width="64" src="https://flagcdn.com/w320/jp.png">
+<img width="64" src="https://flagcdn.com/w320/ru.png">
+<img width="64" src="https://flagcdn.com/w320/de.png">
+</p>
+</p>
 </p>
