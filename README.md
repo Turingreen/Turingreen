@@ -273,16 +273,6 @@ Jetson Nano
 # 🎯 Goals
 # 目标
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=200&color=gradient"/>
-</p>
-<img width="350" src="https://flagcdn.com/w640/us.png">
-<img width="350" src="https://flagcdn.com/w640/ru.png">
-<img width="350" src="https://flagcdn.com/w640/cn.png">
-<p align="center">
-
-<img width="350" src="https://flagcdn.com/w640/de.png">
-</p>
 
 # 🌍 Global Collaboration · 全球协作
 <p align="center">
