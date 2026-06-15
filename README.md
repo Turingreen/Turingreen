@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Turing%20Code&fontSize=80&fontAlignY=35&desc=AI%20%7C%20Robotics%20%7C%20Space%20Engineering&descAlignY=55" />
 </p>
 
-<h1 align="center">
-  🚀 Turing Code
-</h1>
-
 <h3 align="center">
   <br>
   Future Space Robotics Engineer
@@ -14,19 +10,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=1000&lines=AI+Engineer;ROS2+Developer;Space+Mechanical+Engineer;OpenCV+Developer;Embedded+Systems;Computer+Vision;Machine+Learning;Robotics+Researcher">
 </p>
-
-<h2 align="center">
-  🟥🟩🟦🟨 Microsoft Inspired
-</h2>
-
-<h2 align="center">
-  🌐 Connect With Me
-</h2>
-
-<h2 align="center">
-  🚀 Space & Aerospace Ecosystem
-  <br>
-</h2>
 
 <p align="center">
   <a href="https://www.spacex.com"><img src="https://cdn.simpleicons.org/spacex" width="60"></a>
