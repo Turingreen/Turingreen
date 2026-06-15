@@ -95,18 +95,18 @@
   <img src="https://cdn.simpleicons.org/linux" width="60">
 </p>
 
-<h1 align="center">
+<h3 align="center">
   🚀 Turing Code
-</h1>
+</h3>
 
 <h3 align="center">
   AI · Robotics · Space Engineering
   <br>
 </h3>
 
-<h1 align="center">
+<h3 align="center">
  🌎 Technology Alliance
-</h1>
+</h3>
 <p align="center">
   Microsoft • Google • Apple • NVIDIA • OpenAI • SpaceX<br>
   Tesla • Amazon • Meta • Intel • AMD • Cisco<br>
@@ -115,25 +115,25 @@
 </p>
 
 ---
-<h1 align="center">
+<h3 align="center">
  💻 Programming Languages
 - Python • C • C++ • C# • Java • Rust • Go
-</h1>
+</h3>
 
-<h1 align="center">
+<h3 align="center">
  🤖 Robotics
 - ROS2 • Gazebo • MoveIt2 • Nav2 • SLAM
-</h1>
+</h3>
 
-<h1 align="center">
+<h3 align="center">
  🧠 AI
 - PyTorch • TensorFlow • OpenCV • YOLO • ONNX
-</h1>
+</h3>
 
-<h1 align="center">
+<h3 align="center">
  ⚙️ Embedded Systems
 - STM32 • ESP32 • Raspberry Pi • Jetson Nano
-</h1>
+</h3>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_NAME&show_icons=true"/>
