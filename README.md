@@ -21,11 +21,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,linux"/>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vue,svelte,typescript,javascript"/>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,go,rust"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1500&pause=500&color=00FF88&center=true&vCenter=true&width=1200&lines=Microsoft+Azure;Docker;Kubernetes;Linux;React;Next.js;Vue;Node.js;Python;C++;Java;Rust;ROS2;OpenCV;PyTorch;TensorFlow;SpaceX;NASA;OpenAI;NVIDIA">
 </p>
 
 <h2 align="center">
