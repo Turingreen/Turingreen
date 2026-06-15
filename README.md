@@ -162,3 +162,15 @@ Jetson Nano
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=200&color=gradient"/>
 </p>
+
+# 🌍 Global Collaboration · 全球协作
+
+Code Without Borders · Coding Beyond Nations
+
+代码无国界 · 技术连接世界
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Global%20Technology%20Community&fontSize=45"/>
+</p>
+<p align="center">
+<!-- 50~100个国旗 -->
+</p>
