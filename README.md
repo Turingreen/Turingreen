@@ -163,74 +163,15 @@ Jetson Nano
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=200&color=gradient"/>
 </p>
 
-<h2 align="center">🌎 Global Flag Matrix · 全球国旗矩阵</h2>
-
 <p align="center">
-
-<img src="https://flagcdn.com/24x18/cn.png">
-<img src="https://flagcdn.com/24x18/us.png">
-<img src="https://flagcdn.com/24x18/jp.png">
-<img src="https://flagcdn.com/24x18/kr.png">
-<img src="https://flagcdn.com/24x18/ru.png">
-<img src="https://flagcdn.com/24x18/de.png">
-<img src="https://flagcdn.com/24x18/fr.png">
-<img src="https://flagcdn.com/24x18/gb.png">
-<img src="https://flagcdn.com/24x18/it.png">
-<img src="https://flagcdn.com/24x18/es.png">
-<img src="https://flagcdn.com/24x18/ca.png">
-<img src="https://flagcdn.com/24x18/au.png">
-<img src="https://flagcdn.com/24x18/nz.png">
-<img src="https://flagcdn.com/24x18/in.png">
-<img src="https://flagcdn.com/24x18/sg.png">
-<img src="https://flagcdn.com/24x18/my.png">
-<img src="https://flagcdn.com/24x18/th.png">
-<img src="https://flagcdn.com/24x18/vn.png">
-<img src="https://flagcdn.com/24x18/id.png">
-<img src="https://flagcdn.com/24x18/ph.png">
-<img src="https://flagcdn.com/24x18/br.png">
-<img src="https://flagcdn.com/24x18/ar.png">
-<img src="https://flagcdn.com/24x18/mx.png">
-<img src="https://flagcdn.com/24x18/cl.png">
-<img src="https://flagcdn.com/24x18/za.png">
-<img src="https://flagcdn.com/24x18/eg.png">
-<img src="https://flagcdn.com/24x18/sa.png">
-<img src="https://flagcdn.com/24x18/ae.png">
-<img src="https://flagcdn.com/24x18/tr.png">
-<img src="https://flagcdn.com/24x18/gr.png">
-<img src="https://flagcdn.com/24x18/pl.png">
-<img src="https://flagcdn.com/24x18/nl.png">
-<img src="https://flagcdn.com/24x18/be.png">
-<img src="https://flagcdn.com/24x18/ch.png">
-<img src="https://flagcdn.com/24x18/se.png">
-<img src="https://flagcdn.com/24x18/no.png">
-<img src="https://flagcdn.com/24x18/fi.png">
-<img src="https://flagcdn.com/24x18/dk.png">
-<img src="https://flagcdn.com/24x18/ie.png">
-<img src="https://flagcdn.com/24x18/pt.png">
-<img src="https://flagcdn.com/24x18/il.png">
-<img src="https://flagcdn.com/24x18/pk.png">
-<img src="https://flagcdn.com/24x18/bd.png">
-<img src="https://flagcdn.com/24x18/ng.png">
-<img src="https://flagcdn.com/24x18/ke.png">
-<img src="https://flagcdn.com/24x18/ma.png">
-<img src="https://flagcdn.com/24x18/co.png">
-<img src="https://flagcdn.com/24x18/pe.png">
-<img src="https://flagcdn.com/24x18/ua.png">
-<img src="https://flagcdn.com/24x18/kz.png">
-<img src="https://flagcdn.com/24x18/mn.png">
-
-</p>
-
-<h2 align="center">🌍 Global Nations · 全球国家</h2>
-
-<p align="center">
-
-<img src="https://flagcdn.com/32x24/cn.png">
-<img src="https://flagcdn.com/32x24/us.png">
+<img width="350" src="https://flagcdn.com/w640/us.png">
+<img width="350" src="https://flagcdn.com/w640/ru.png">
+<img width="350" src="https://flagcdn.com/w640/cn.png">
+<img width="350" src="https://flagcdn.com/w640/de.png">
 <img src="https://flagcdn.com/32x24/jp.png">
 <img src="https://flagcdn.com/32x24/kr.png">
-<img src="https://flagcdn.com/32x24/ru.png">
-<img src="https://flagcdn.com/32x24/de.png">
+
+
 <img src="https://flagcdn.com/32x24/fr.png">
 <img src="https://flagcdn.com/32x24/gb.png">
 <img src="https://flagcdn.com/32x24/it.png">
