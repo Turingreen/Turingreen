@@ -3,3 +3,7 @@
 </p>
 
 ![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007edd&section=footer" />
+</p>
