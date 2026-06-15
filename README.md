@@ -30,11 +30,6 @@
 
 <p align="center">
   <a href="https://www.spacex.com"><img src="https://cdn.simpleicons.org/spacex" width="60"></a>
-  <a href="https://www.nasa.gov"><img src="https://cdn.simpleicons.org/nasa" width="60"></a>
-  <a href="https://www.blueorigin.com"><img src="https://cdn.simpleicons.org/blueorigin" width="60"></a>
-  <a href="https://www.esa.int"><img src="https://cdn.simpleicons.org/esa" width="60"></a>
-  <a href="https://global.jaxa.jp"><img src="https://cdn.simpleicons.org/jaxa" width="60"></a>
-  <a href="https://www.isro.gov.in"><img src="https://cdn.simpleicons.org/isro" width="60"></a>
 </p>
 
 <h2 align="center">
