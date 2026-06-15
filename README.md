@@ -69,66 +69,7 @@
   <img src="https://cdn.simpleicons.org/linux" width="60">
 </p>
 
-<h3 align="center">
-  🚀 Turing Code
-</h3>
-
-<h3 align="center">
-  AI · Robotics · Space Engineering
-  <br>
-</h3>
-
-<h3 align="center">
- 🌎 Technology Alliance
-</h3>
-<p align="center">
-  Microsoft • Google • Apple • NVIDIA • OpenAI • SpaceX<br>
-  Tesla • Amazon • Meta • Intel • AMD • Cisco<br>
-  NASA • ESA • JAXA • CNSA • ISRO<br>
-  ROS • Gazebo • OpenCV • PyTorch • TensorFlow
-</p>
-
----
-<h3 align="center">
- 💻 Programming Languages
-- Python • C • C++ • C# • Java • Rust • Go
-</h3>
-
-<h3 align="center">
- 🤖 Robotics
-- ROS2 • Gazebo • MoveIt2 • Nav2 • SLAM
-</h3>
-
-<h3 align="center">
- 🧠 AI
-- PyTorch • TensorFlow • OpenCV • YOLO • ONNX
-</h3>
-
-<h3 align="center">
- ⚙️ Embedded Systems
-- STM32 • ESP32 • Raspberry Pi • Jetson Nano
-</h3>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_NAME&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NAME"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_NAME"/>
-</p>
-
-
-# 📚 Future Projects
-- [ ] ROS2 Humanoid Robot
-- [ ] Space Rover
-- [ ] Autonomous Drone
-- [ ] AI Vision System
-- [ ] Mars Exploration Robot
-
-
-# 📝 Notes
-
+### context
 在这里填写自己的内容
 
 
