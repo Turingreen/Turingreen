@@ -20,38 +20,9 @@
   <br>
 </h2>
 
-<svg width="1200" height="100" xmlns="http://www.w3.org/2000/svg">
-
-<style>
-.icons {
-  animation: move 20s linear infinite;
-}
-
-@keyframes move {
-  from {
-    transform: translateX(0px);
-  }
-  to {
-    transform: translateX(-600px);
-  }
-}
-</style>
-
-<g class="icons">
-
-<image href="https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,react,nextjs,nodejs,vue,svelte,typescript,javascript,python,cpp,c,cs,java,go,rust"
-x="0"
-y="0"
-height="80"/>
-
-<image href="https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,react,nextjs,nodejs,vue,svelte,typescript,javascript,python,cpp,c,cs,java,go,rust"
-x="600"
-y="0"
-height="80"/>
-
-</g>
-
-</svg>
+<p align="center">
+<img src="./assets/tech-carousel.svg">
+</p>
 
 <h2 align="center">
   🤖 Robotics Ecosystem
