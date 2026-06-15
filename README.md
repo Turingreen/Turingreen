@@ -104,8 +104,9 @@
   <br>
 </h3>
 
+<p align="center">
 ### 🌎 Technology Alliance
-
+</p>
 <p align="center">
   Microsoft • Google • Apple • NVIDIA • OpenAI • SpaceX<br>
   Tesla • Amazon • Meta • Intel • AMD • Cisco<br>
