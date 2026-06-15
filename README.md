@@ -29,15 +29,6 @@
 </p>
 
 <h2 align="center">
-  🤖 Artificial Intelligence Ecosystem
-  <br>
-</h2>
-
-<p align="center">
-  <a href="https://www.nvidia.com"><img src="https://cdn.simpleicons.org/nvidia" width="60"></a>
-</p>
-
-<h2 align="center">
   🤖 Robotics Ecosystem
   <br>
 </h2>
