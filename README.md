@@ -23,18 +23,6 @@
   🌐 Connect With Me
 </h2>
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="48"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bilibili.svg" width="48"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="48"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="48"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="48"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="48"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" width="48"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="48"/></a>
-</p>
-
 <h2 align="center">
   🚀 Space & Aerospace Ecosystem
   <br>
